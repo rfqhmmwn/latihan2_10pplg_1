@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">latihan2_10pplg_1</string>
+    <string-array name="operators">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
+
